@@ -1,0 +1,16 @@
+# Keil MDK 编译产物
+MDK/Objects/
+MDK/Listings/
+MDK/build/
+MDK/*.uvguix.*
+MDK/*.bak
+
+# VSCode 本地配置
+MDK/.vscode/keil-assistant.log
+MDK/.vscode/uv4.log
+MDK/.vscode/uv4.log.lock
+
+# Windows 系统文件
+DEVICE/desktop.ini
+Thumbs.db
+Desktop.ini
